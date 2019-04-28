@@ -1,0 +1,16 @@
+{
+  "name": "lenb",
+  "version": "1.0.2",
+  "description": "number of bytes used to represent the characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lenb",
+    "len",
+    "bytes"
+  ],
+  "author": "Zhongyuan",
+  "license": "MIT"
+}
